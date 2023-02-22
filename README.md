@@ -15,3 +15,4 @@ Funktioner att implementera:
 * division
 * hjälpfunktion
 
+Killroy was here
